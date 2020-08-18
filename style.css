@@ -1,0 +1,185 @@
+html,
+body{
+margin: 0px;
+padding: 0px;
+font-family: 'Crimson Text', serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ 
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+
+}
+.title{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  align-items: center;
+}
+
+.about{
+  margin-top: 10em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.about a {
+   margin-top: 2em;
+  color: grey;
+  text-decoration: none;
+  font-size:130%;
+  text-align: center;
+}
+
+.aim{
+  margin-top: 10em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.target{
+  margin-top: 6em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.inspiration{
+  margin-top: 10em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.inspiration a {
+   margin-top: 2em;
+  color: grey;
+  text-decoration: none;
+  font-size:130%;
+}
+
+.direction{
+  margin-top: 15em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+text-decoration: none;
+}
+
+.direction a {
+   margin-top: 2em;
+  color: grey;
+  text-decoration: none;
+  font-size:130%;
+}
+
+.palette{
+   margin-top: 5em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.moodselector{
+  margin-top: 12em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.stressed{
+  margin-top: 12em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.link{
+  margin-top: 12em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.contact{
+  margin-top: 12em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.tips{
+  margin-top: 12em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.hp{
+  margin-top: 12em;
+  margin-bottom: 12em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.user1 p {
+color: black;
+font-size: 120%;
+}
+.user2{
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.user3{
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.glimpse{
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.image {
+width: 60%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding-top: 5%;
+}
+
+ p {
+color: grey;
+text-align: center;
+ }
+.white{
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
