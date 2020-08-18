@@ -59,14 +59,14 @@ text-align: center;
 }
 
 .target{
-  margin-top: 6em;
+  margin-top: 10em;
   height: 100%;
   width: 100%;
 text-align: center;
 }
 
 .inspiration{
-  margin-top: 10em;
+  margin-top: 15em;
   height: 100%;
   width: 100%;
 text-align: center;
@@ -95,14 +95,15 @@ text-decoration: none;
 }
 
 .palette{
-   margin-top: 5em;
+   margin-top: 12em;
   height: 100%;
   width: 100%;
 text-align: center;
+margin-bottom: 10em;
 }
 
 .moodselector{
-  margin-top: 12em;
+  margin-top: 13em;
   height: 100%;
   width: 100%;
 text-align: center;
